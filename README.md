@@ -15,9 +15,4 @@ Not the most accurate. The API keys being used are for the free version and may 
 
 The project also includes headshots for most of the NBA players.
 
-Team: <br />
-Sukhpal S. Saini<br />
-Vasu Kamra<br />
-Tavneet Uppal<br />
 
-http://www.sukhpalsaini.com
